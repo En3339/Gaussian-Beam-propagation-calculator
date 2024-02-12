@@ -18,7 +18,7 @@ c= 3e8;
 f=c/lambda;
 v=c/lambda/(2*pi);
 k=2*pi/lambda;
-E=10^10; % U0 the electric field amplitude (and phase) at the origin (r = 0, z = 0),
+E=10; % U0 the electric field amplitude (and phase) at the origin (r = 0, z = 0),
 x=Pt_Cartesian(1);y=Pt_Cartesian(2);z=Pt_Cartesian(3);
 
 % About the Beam
